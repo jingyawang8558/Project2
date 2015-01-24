@@ -12,5 +12,5 @@ The code is divided into several part
 * From the data set in step 4, to create a second, independent tidy data set with the average of each variable for each activity and each subject (address question 5)
 
 The files uploaded in the repo include:
-* Script.R: which is the script used for analysis
+* run_analysis.R: which is the script used for analysis
 * CodeBook.md: a code book that describes the variables, the data, and work performed to clean up the data
