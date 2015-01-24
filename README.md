@@ -3,13 +3,13 @@
 The code in this repo is used to create a tidy data set of Human Activity Recognition Using Smartphones Data Set (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) for the final project of gettng and cleaning data. 
 
 The code is divided into several part
-1. To download and unzip the data
-2. To read in the files and check data dimension
-3. To change the column names into descriptive variable names (address question 4)
-4. To extract only the measurements on the mean and standard deviation for each measurement (address question 2)
-5. To merges the training and the test sets to create one data set (address question 1)
-6. To replace the activity indexes with descriptive activity names (address question 3)
-7. From the data set in step 4, to create a second, independent tidy data set with the average of each variable for each activity and each subject (address question 5)
+*1. To download and unzip the data
+*2. To read in the files and check data dimension
+*3. To change the column names into descriptive variable names (address question 4)
+*4. To extract only the measurements on the mean and standard deviation for each measurement (address question 2)
+*5. To merges the training and the test sets to create one data set (address question 1)
+*6. To replace the activity indexes with descriptive activity names (address question 3)
+*7. From the data set in step 4, to create a second, independent tidy data set with the average of each variable for each activity and each subject (address question 5)
 
 The files uploaded in the repo include:
 * Script.R: which is the script used for analysis
